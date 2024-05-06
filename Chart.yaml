@@ -1,0 +1,5 @@
+apiVersion: v2
+description: This library chart privides manifests for the most common kubernetes objects, including lables and annotations.
+name: common-chart
+type: library
+version: 0.1.0
